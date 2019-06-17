@@ -29,11 +29,11 @@
 
 - Key differences between Python 2.x and Python 3.x [[IPython nb](python_reference/tutorials/key_differences_between_python_2_and_3.ipynb?create=1)]
 
-- A thorough guide to SQLite database operations in Python [[Markdown](./tutorials/sqlite3_howto/README.md)]  
+- A thorough guide to SQLite database operations in Python [[Markdown](algorithms/tutorials/sqlite3_howto/README.md)]  
 
-- Unit testing in Python - Why we want to make it a habit [[Markdown](./tutorials/unit_testing.md)]  
+- Unit testing in Python - Why we want to make it a habit [[Markdown](algorithms/tutorials/unit_testing.md)]  
 
-- Installing Scientific Packages for Python3 on MacOS 10.9 Mavericks [[Markdown](./tutorials/installing_scientific_packages.md)]
+- Installing Scientific Packages for Python3 on MacOS 10.9 Mavericks [[Markdown](algorithms/tutorials/installing_scientific_packages.md)]
 
 - Sorting CSV files using the Python csv module [[IPython nb](python_reference/tutorials/sorting_csvs.ipynb)]
 
@@ -71,7 +71,7 @@
 *This category has been moved to a separate GitHub repository [rasbt/algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks)*
 
 
-- Sorting Algorithms [[Collection of IPython Notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks/tree/master/ipython_nbs/sorting)
+- Sorting Algorithms [[Collection of IPython Notebooks](algorithms/ipython_nbs/sorting)
 
 - Linear regression via the least squares fit method [[IPython nb](algorithms/ipython_nbs/statistics/linregr_least_squares_fit.ipynb?create=1)]
 
@@ -111,7 +111,6 @@
 
 - Just-in-time compilers for NumPy array expressions [[IPython nb](http://nbviewer.ipython.org/github/rasbt/One-Python-benchmark-per-day/blob/master/ipython_nbs/day7_2_jit_numpy.ipynb)]
 
-- Cython - Bridging the gap between Python and Fortran [[IPython nb](http://nbviewer.ipython.org/github/rasbt/One-Python-benchmark-per-day/blob/master/ipython_nbs/day10_fortran_lstsqr.ipynb)]
 
 - Parallel processing via the multiprocessing module [[IPython nb](python_reference/tutorials/multiprocessing_intro.ipynb)]
 

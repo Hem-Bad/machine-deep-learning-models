@@ -1,8 +1,8 @@
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 
-# Deep Learning Models
+# Machine / Deep Learning Models
 
-A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
+A collection of various Machine Learning and deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
 
 ## Traditional Machine Learning
 
