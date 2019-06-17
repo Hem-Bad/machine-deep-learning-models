@@ -1,5 +1,5 @@
 """ 
-Sebastian Raschka 2014
+Hemprasad Badgujar2014
 
 watermark.py
 version 1.1.0

@@ -6,15 +6,15 @@
 
 <div style="height:100px;"></div>
 
-- [// Python tips and tutorials](#-python-tips-and-tutorials)
-- [// Python and the web](#-python-and-the-web)
-- [// Algorithms](#-algorithms)
-- [// Plotting and Visualization](#-plotting-and-visualization)
-- [// Benchmarks](#-benchmarks)
-- [// Python and "Data Science"](#-python-and-data-science)
-- [// Useful scripts and snippets](#-useful-scripts-and-snippets)
-- [// Other](#-other)
-- [// Links](#-links)
+- [ Python tips and tutorials](#-python-tips-and-tutorials)
+- [ Python and the web](#-python-and-the-web)
+- [ Algorithms](#-algorithms)
+- [ Plotting and Visualization](#-plotting-and-visualization)
+- [ Benchmarks](#-benchmarks)
+- [ Python and "Data Science"](#-python-and-data-science)
+- [ Useful scripts and snippets](#-useful-scripts-and-snippets)
+- [ Other](#-other)
+- [ Links](#-links)
 
 
 
@@ -62,7 +62,7 @@
 
 - Creating internal links in IPython Notebooks and Markdown docs [[IPython nb](python_reference/tutorials/table_of_contents_ipython.ipynb)]  
 
-- Converting Markdown to HTML and adding Python syntax highlighting [[Markdown](./tutorials/markdown_syntax_highlighting/README.md)]
+- Converting Markdown to HTML and adding Python syntax highlighting [[Markdown](python_reference/tutorials/markdown_syntax_highlighting/README.md)]
 
 
 <br>
@@ -73,13 +73,13 @@
 
 - Sorting Algorithms [[Collection of IPython Notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks/tree/master/ipython_nbs/sorting)
 
-- Linear regression via the least squares fit method [[IPython nb](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb?create=1)]
+- Linear regression via the least squares fit method [[IPython nb](algorithms/ipython_nbs/statistics/linregr_least_squares_fit.ipynb?create=1)]
 
-- Dixon's Q test to identify outliers for small sample sizes [[IPython nb](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/dixon_q_test.ipynb?create=1)]
+- Dixon's Q test to identify outliers for small sample sizes [[IPython nb](algorithms/ipython_nbs/statistics/dixon_q_test.ipynb?create=1)]
 
-- Counting points inside a hypercube [[IPython nb](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/points_in_hybercube.ipynb)]
+- Counting points inside a hypercube [[IPython nb](algorithms/ipython_nbs/geometry/points_in_hybercube.ipynb)]
 
-- Singly Linked List [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/singly-linked-list.ipynb)]
+- Singly Linked List [[ IPython nbviewer ](algorithms/ipython_nbs/data-structures/singly-linked-list.ipynb)]
 
 <br>
 <b id="-plotting-and-visualization">Plotting and Visualization</b> <a href="#top">[back to top]</a>
@@ -147,9 +147,9 @@
 
 - A random string generator [function](./useful_scripts/random_string_generator.py).
 
-- [Converting large CSV files](https://github.com/rasbt/python_reference/blob/master/useful_scripts/large_csv_to_sqlite.py) to SQLite databases using pandas.
+- [Converting large CSV files](python_reference/useful_scripts/large_csv_to_sqlite.py) to SQLite databases using pandas.
 
-- [Sparsifying a matrix](https://github.com/rasbt/python_reference/blob/master/useful_scripts/sparsify_matrix.py) by zeroing out all elements but the top k elements in a row using NumPy.
+- [Sparsifying a matrix](python_reference/useful_scripts/sparsify_matrix.py) by zeroing out all elements but the top k elements in a row using NumPy.
 
 <br>
 

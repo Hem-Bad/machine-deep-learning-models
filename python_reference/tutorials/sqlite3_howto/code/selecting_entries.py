@@ -1,4 +1,4 @@
-# Sebastian Raschka, 2014
+# Hemprasad Badgujar, 2014
 # Selecting rows from an existing SQLite database
 
 import sqlite3

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Sebastian Raschka 05/21/2014
+# Hemprasad Badgujar05/21/2014
 # Shell script that prepends a Python shebang 
 # '#!/usr/bin/env python' to all
 # Python script files in the current directory

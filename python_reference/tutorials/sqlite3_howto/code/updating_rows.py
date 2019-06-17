@@ -1,4 +1,4 @@
-# Sebastian Raschka, 2014
+# Hemprasad Badgujar, 2014
 # Updating rows in an existing SQLite database
 
 import sqlite3

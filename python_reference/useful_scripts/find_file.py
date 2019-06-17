@@ -1,4 +1,4 @@
-# Sebastian Raschka 2014
+# Hemprasad Badgujar2014
 #
 # A Python function to find files in a directory based on a substring search.
 

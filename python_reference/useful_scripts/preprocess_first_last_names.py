@@ -1,4 +1,4 @@
-# Sebastian Raschka 2014
+# Hemprasad Badgujar2014
 #
 # A Python function to generalize first and last names.
 # The typical use case of such a function to merge data that have been collected 

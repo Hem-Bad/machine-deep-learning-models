@@ -1,4 +1,4 @@
-# Sebastian Raschka, 03/2014
+# Hemprasad Badgujar, 03/2014
 # Date and Time operations in sqlite3
 
 import sqlite3

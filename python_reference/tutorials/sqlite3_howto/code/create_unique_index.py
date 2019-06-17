@@ -1,4 +1,4 @@
-# Sebastian Raschka, 2014
+# Hemprasad Badgujar, 2014
 # Creating an index on a column with unique! values
 # Boosts performance for data base operations.
 

@@ -1,4 +1,4 @@
-Sebastian Raschka, 2015
+Hemprasad Badgujar, 2015
 
 # Flask Example App 1
 

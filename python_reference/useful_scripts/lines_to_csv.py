@@ -1,4 +1,4 @@
-# Sebastian Raschka 2014
+# Hemprasad Badgujar2014
 # converts a 1-col input file into csv file
 #
 # Example input:

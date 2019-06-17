@@ -1,4 +1,4 @@
-# Sebastian Raschka, 03/2014
+# Hemprasad Badgujar, 03/2014
 
 
 def read_csv(csv_path):

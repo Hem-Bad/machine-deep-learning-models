@@ -1,4 +1,4 @@
-# Sebastian Raschka, 2014
+# Hemprasad Badgujar, 2014
 # Creating a new SQLite database
 
 import sqlite3

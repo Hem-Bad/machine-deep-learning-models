@@ -1,4 +1,4 @@
-# Sebastian Raschka 2014
+# Hemprasad Badgujar2014
 # Prints Information of a SQLite database.
 
 # E.g.,

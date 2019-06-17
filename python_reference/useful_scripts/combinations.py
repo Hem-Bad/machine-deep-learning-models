@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Sebastian Raschka 2014
+# Hemprasad Badgujar2014
 # Functions to calculate factorial, combinations, and permutations
 # bundled in an simple command line interface.
 

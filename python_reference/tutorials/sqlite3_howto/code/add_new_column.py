@@ -1,4 +1,4 @@
-# Sebastian Raschka, 2014
+# Hemprasad Badgujar, 2014
 # Adding a new column to an existing SQLite database
 
 import sqlite3

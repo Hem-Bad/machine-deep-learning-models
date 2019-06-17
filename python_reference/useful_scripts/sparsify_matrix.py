@@ -1,4 +1,4 @@
-# Sebastian Raschka 2014
+# Hemprasad Badgujar2014
 #
 # Sparsifying a matrix by Zeroing out all elements but the top k elements in a row.
 # The matrix could be a distance or similarity matrix (e.g., kernel matrix in kernel PCA),

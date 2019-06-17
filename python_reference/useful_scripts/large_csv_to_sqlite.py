@@ -1,7 +1,7 @@
 # This is a workaround snippet for reading very large CSV that exceed the
 # machine's memory and dump it into an SQLite database using pandas.
 #
-# Sebastian Raschka, 2015
+# Hemprasad Badgujar, 2015
 #
 # Tested in Python 3.4.2 and pandas 0.15.2 
 

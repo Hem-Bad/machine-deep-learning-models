@@ -2,7 +2,7 @@
 
 ## Installing Scientific Packages for Python3 on MacOS 10.9 Mavericks
 
-_\-- written by Sebastian Raschka_ on March 13, 2014
+_\-- written by Hemprasad Badgujar_ on March 13, 2014
 
 
   

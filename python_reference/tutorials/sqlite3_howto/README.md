@@ -1,6 +1,6 @@
 ## A thorough guide to SQLite database operations in Python
 
-_\-- written by Sebastian Raschka_ on March 7, 2014
+_\-- written by Hemprasad Badgujar_ on March 7, 2014
 
 
   
@@ -775,6 +775,6 @@ free ZINC online database. If you are interested, you can check it out at:
 <https://github.com/rasbt/smilite>.  
   
 If you have any suggestions or questions, please don't hesitate to write me an
-[ email](mailto:se.raschka@gmail.com) or leave a comment in the comment
+[ email](mailto:hemprasad.badgujar@gmail.com) or leave a comment in the comment
 section below! I am looking forward to your opinions and ideas, and I hope I
 can improve and extend this tutorial in future.
